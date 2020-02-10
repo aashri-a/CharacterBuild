@@ -1,0 +1,6 @@
+/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterLibrary/bin/Debug/CharacterLibrary.dll
+/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterLibrary/bin/Debug/CharacterLibrary.pdb
+/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterLibrary/obj/Debug/CharacterLibrary.csprojResolveAssemblyReference.cache
+/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterLibrary/obj/Debug/CharacterLibrary.csproj.CoreCompileInputs.cache
+/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterLibrary/obj/Debug/CharacterLibrary.dll
+/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterLibrary/obj/Debug/CharacterLibrary.pdb

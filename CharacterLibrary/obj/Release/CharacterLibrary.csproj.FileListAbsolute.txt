@@ -1,0 +1,4 @@
+/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterLibrary/bin/Release/CharacterLibrary.dll
+/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterLibrary/obj/Release/CharacterLibrary.csprojAssemblyReference.cache
+/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterLibrary/obj/Release/CharacterLibrary.csproj.CoreCompileInputs.cache
+/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterLibrary/obj/Release/CharacterLibrary.dll

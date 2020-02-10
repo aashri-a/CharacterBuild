@@ -1,0 +1,15 @@
+/verbose
+/output:/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterGUI/bin/Release/
+/name:Character
+/profile:Xamarin.Mac,Version=v2.0,Profile=Mobile
+/arch:x86_64
+--http-message-handler=HttpClientHandler
+/minos=10.12
+/linksdkonly
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll
+/root-assembly:/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterGUI/bin/Release/Character.exe
+/sdkroot:/Applications/Xcode.app/Contents/Developer
+--cache:/Users/brucevanhorn/Projects/VisualStudioForMac/CharacterGUI/obj/Release/mmp-cache
